@@ -1,0 +1,1 @@
+Open each notebook in order on basis of prefix. The first notebook contains our scraped data, converting that to a dataframe, and saving it as a csv. The second notebook contains all of our data cleaning and analysis of the data we merged together.
